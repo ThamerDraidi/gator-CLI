@@ -3,7 +3,7 @@
 To run the Gator CLI, you need:
 
 - **Node.js** (version 22.15.0 recommended)  
-- **npm** (or yarn)  
+- **npm** 
 - **PostgreSQL** (version 16+ recommended)  
 - A terminal or command-line interface (CLI)  
 - Optionally, a text editor (like VS Code) for configuration
@@ -60,3 +60,4 @@ npm run start reset
 # List all users
 
 npm run start users
+
