@@ -25,7 +25,7 @@ To run the Gator CLI, you need:
   "current_user_name": null
 }
  
-2. **Running Gator CLI**
+2. **Running Gator CLI**:
 npm run start <command> [arguments]:
 # Register a new user
 npm run start register thamer
@@ -58,4 +58,5 @@ npm run start agg 30s
 npm run start reset
 
 # List all users
+
 npm run start users
